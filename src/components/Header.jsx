@@ -29,7 +29,7 @@ export default function Header() {
         <div>Any week</div>
         <div className="border-l border-gray-300"></div>
         <div>Add guests</div>
-        <button className="bg-primary text-white p-1 rounded-full">
+        <button className="bg-primary text-white  p-1 rounded-full">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
